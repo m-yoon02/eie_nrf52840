@@ -3,6 +3,11 @@ git branch
 git checkout
 git pull
 git push
+-u <remote> <branch> // git push -u origin lesson2
 git merge
 git rebase
 git fetch
+git add
+git status
+git log
+
